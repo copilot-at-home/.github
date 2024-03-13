@@ -1,3 +1,6 @@
+# Archived
+The project has been rescoped and moved to [VsCode Chatgpt Easy Copy](https://github.com/nikhils98/vscode-chatgpt-easy-copy)
+
 # Introduction
 
 The name is inspired by the "We have food at home" meme as it's supposed to be a fun and experimental tool to eliminate context switch as well as copy/pasting code between vscode and chatgpt in browser while keeping the experience free of cost. It doesn't aim to be an actual copilot alternative.
